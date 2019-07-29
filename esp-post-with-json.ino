@@ -9,13 +9,12 @@
 //#include <ArduinoJson.h>
 #include <ArduinoJson.h>
 
-//const char* ssid     = "JioFi2_C2350B";
-//const char* password = "acie5greuc";
 
-const char* ssid     = "Sri Anjaneya";
-const char* password = "ABCD123456";
 
-const char* host = "platform.i2otlabs.com";
+const char* ssid     = "XXXXXXXXXXXXXX";
+const char* password = "YYYYYYYYYYYYYY";
+
+const char* host = "myplatform.com";
 
 String urlencode(String str)
 
