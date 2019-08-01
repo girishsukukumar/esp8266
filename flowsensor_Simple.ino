@@ -11,12 +11,11 @@
 #include <ESP8266HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid     = "JioFi2_C2350B";
-const char* password = "acie5greuc";
+const char* ssid     = "XXXXX";
+const char* password  = "yyyyyyyy";
 
-//const char* ssid      = "Sri Anjaneya" ;
-//const char* password  = "ABCD123456" ;
-const char* host      = "platform.i2otlabs.com" ;
+
+const char* host      = "mytaxonomylife.com" ;
 const int   inputPIN  = 4 ; //GPIO 4
 int   ticks  = 0 ;
 int   previousTicksNoted = -1 ; 
