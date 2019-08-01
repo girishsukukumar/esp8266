@@ -14,7 +14,7 @@
 const char* ssid     = "XXXXXXXXXXXXXX";
 const char* password = "YYYYYYYYYYYYYY";
 
-const char* host = "myplatform.com";
+const char* host = "sankarabharanam.com";
 
 String urlencode(String str)
 
