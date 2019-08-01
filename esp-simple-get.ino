@@ -19,7 +19,7 @@
 const char* ssid     = "XXXXXXXXXXXXX";
 const char* password = YYYYYYYYY";
 
-const char* host = "myplatform.com";
+const char* host = "sagararani.myboat.com";
 void setup() {
   Serial.begin(115200);
   delay(10);
